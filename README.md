@@ -1,2 +1,2 @@
 # demo-repo-1
-demo-repo-1 hi
+demo-repo-1 hi.
